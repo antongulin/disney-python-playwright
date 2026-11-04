@@ -4,13 +4,13 @@ Welcome to the Disney Testing Framework - a comprehensive automation test soluti
 
 ## Creator's Bio
 
-Hi! I'm Anton Rosh, an accomplished Software Development Engineer in Test (SDET) and a Quality Assurance Automation Lead with a career spanning over 7 years. My specialization includes:
+Hi! I'm Anton Gulin, an accomplished Software Development Engineer in Test (SDET) and a Quality Assurance Automation Lead with a career spanning over 7 years. My specialization includes:
 
 - Designing and implementing efficient test automation solutions to improve product quality and expedite release cycles.
 - Building test automation frameworks from scratch.
 - Proficient in UI, API, and database testing.
 
-I'm proficient in TypeScript, Java, C#, and Python-based testing frameworks, including Playwright and Selenium WebDriver. Additionally, I have hands-on experience with CI/CD tools such as GitHub Actions, Azure Pipelines, Jenkins, GoCD, and Bitbucket Pipelines. Learn more about me from my [Portfolio](https://antonrosh.dev).
+I'm proficient in TypeScript, Java, C#, and Python-based testing frameworks, including Playwright and Selenium WebDriver. Additionally, I have hands-on experience with CI/CD tools such as GitHub Actions, Azure Pipelines, Jenkins, GoCD, and Bitbucket Pipelines. Learn more about me from my [Portfolio](https://www.anton.qa).
 
 ## Repository Structure
 
@@ -40,7 +40,7 @@ For setting up the project locally:
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/antonrosh/disney-python-playwright
+   git clone https://github.com/antongulin/disney-python-playwright
    ```
 
 2. Create a .env file at the root of the project directory. This file is used to store sensitive information and is not tracked by git. You'll need to add any necessary environment variables here. The following variables are required:
@@ -99,8 +99,7 @@ This project is a work in progress, and in the future, I plan to add:
 
 If you have any questions or wish to discuss potential collaborations, feel free to reach out:
 
-- Email: me@antonrosh.dev
-- Website: www.antonrosh.dev
-- LinkedIn: www.linkedin.com/in/antonrosh
-- GitHub: www.github.com/antonrosh
-- Schedule a meeting: www.calendly.com/your-sdet-is-anton-rosh
+- Email: i@anton.qa
+- Website: https://www.anton.qa
+- LinkedIn: https://www.linkedin.com/in/antongulin
+- GitHub: https://github.com/antongulin
